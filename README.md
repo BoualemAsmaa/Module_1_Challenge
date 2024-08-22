@@ -2,6 +2,8 @@
   ====================
 
  ## AI field : Buisiness
+
+ ![AI](https://github.com/user-attachments/assets/3e06926e-8293-44cd-bdb8-2cd9429913da)
   
   ### Autonomous vehicle : Google Self - Driving cars 
    --------------------------------------------
