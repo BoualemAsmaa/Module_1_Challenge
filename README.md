@@ -1,5 +1,5 @@
  # Module_1_Challenge
-  ==================
+  ====================
 
  ## AI field : Buisiness
   
@@ -75,7 +75,12 @@
    and it continues to pay off as they introduce their 6th-generation hardware. they’ve significantly reduced the 
    cost of their 6th-generation system while delivering even more resolution, range, compute power, and enabling 
    more capabilities.
-   Their 6th-gen system builds on the unparalleled capabilities of their current, 5th-generation system,which has been instrumental to helping Waymo scale their service to some of the densest cities in the United States and improving road safety where we operate. With 13 cameras, 4 lidar, 6 radar, and an array of external audio receivers (EARs), their new sensor suite is optimized for greater performance at a significantly reduced cost, without compromising safety. It provides the Waymo Driver with overlapping fields of view, all around the vehicle, up to 500 meters away, day and night, and in a range of weather conditions.
+   Their 6th-gen system builds on the unparalleled capabilities of their current, 5th-generation system,which has 
+   been instrumental to helping Waymo scale their service to some of the densest cities in the United States and 
+   improving road safety where we operate. With 13 cameras, 4 lidar, 6 radar, and an array of external audio 
+   receivers (EARs), their new sensor suite is optimized for greater performance at a significantly reduced cost, 
+   without compromising safety. It provides the Waymo Driver with overlapping fields of view, all around the 
+   vehicle, up to 500 meters away, day and night, and in a range of weather conditions.
 
   ### Landscape
 
@@ -83,7 +88,10 @@
 
    * **The mjajor trends and innovations of this field** 
 
-   Modern automotive vehicles are highly intelligent with a wide range of sensors that collect and process data from in and around the vehicle. Moreover, advances in communication technologies allow vehicles to use this data to communicate with each other and their surrounding infrastructure. Moreover, connected vehicle solutions power traffic management, autonomous vehicles, and more to tackle traffic congestion and road safety concerns in cities.
+   Modern automotive vehicles are highly intelligent with a wide range of sensors that collect and process data 
+   from in and around the vehicle. Moreover, advances in communication technologies allow vehicles to use this data 
+   to communicate with each other and their surrounding infrastructure. Moreover, connected vehicle solutions power 
+   traffic management, autonomous vehicles, and more to tackle traffic congestion and road safety concerns in cities.
 
    * **The other major companies in Autonomous Vehicle**:
 
@@ -98,18 +106,43 @@
 
   ### Results
 
-* What has been the business impact of this company so far?
+   *Waymo's self-driving technology is already proving to be far safer than humans and will only continue to improve 
+   in safety as more data is collected. Moreover, the company's Waymo One program is already proving that the robo-taxi 
+   business model is viable given the growing demand for Waymo's self-driving ride-hailing service.
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+  * **The metrics that are most widely used by self-driving car developers**
 
-* How is your company performing relative to competitors in the same field?
+  The main goal of self-driving cars is to drive from point A to point B safely. To do this they operate 
+  a pre-established map. We call this map a high-definition map or HD Map. Self-driving vehicles use 
+  a combination of radar, video cameras, LiDAR and GPS to locate themselves and surrounding vehicles 
+  within their HD Map.
+
+  * Waymo, which is owned by Alphabet, introduced its sixth-generation Driver system, which features 
+  a more efficient sensor configuration. The self-driving ride's new arrangement supposedly keeps safety 
+  levels, even though it has less cameras and LiDAR sensors compared to the present platform.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* I suggest that waymo company should work more on their parking system , they should collect more 
+ data , work on model development and maintenance , train the robotaxi system to honk only in 
+ a serious danger.
 
-* Why do you think that offering this product or service would benefit the company?
+* This service will make the people that they are annoyed by the cars at night in their side 
 
-* What technologies would this additional product or service utilize?
+* waymo company should use Artificial Intilligence analysis to train the robot more .
 
-* Why are these technologies appropriate for your solution?
+* **Improved vehicle safety**: 
+
+    * **AI** can help reduce the number of accidents caused by human error.
+    * Predictive driving capabilities: AI can help self-driving cars anticipate and respond to changes 
+    * in traffic and road conditions.
+    * Better traffic management: AI can help optimize traffic flow and reduce congestion.
+
+
+
+
+ ## References
+
+   [waymo history](https://waymo.com/about/#story)
+
+   [waymo blog](https://waymo.com/blog/2024/08/meet-the-6th-generation-waymo-driver/)
