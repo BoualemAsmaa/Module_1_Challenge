@@ -88,7 +88,7 @@
 
    * Waymo is an American autonomous driving **technology company**
 
-   * **The mjajor trends and innovations of this field** 
+   * **The major trends and innovations of this field** 
 
    Modern automotive vehicles are highly intelligent with a wide range of sensors that collect and process data 
    from in and around the vehicle. Moreover, advances in communication technologies allow vehicles to use this data 
