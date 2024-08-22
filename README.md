@@ -22,8 +22,7 @@
    
    * Waymo was first initiated by Google in 2009 as ==Google self driving car projet==
      and in December 2016 , Waymo was established as an independent company under 
-     ==Alphabet INC== Google's parent company 
->>>>>>> d02209a40ae44dafc6e6807a9a9244b20f4eecb3
+     ==Alphabet INC== Google's parent company.
 
    * **The founders of Waymo** :
 
