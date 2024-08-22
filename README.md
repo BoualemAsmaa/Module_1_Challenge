@@ -6,11 +6,24 @@
   ### Autonomous vehicle : Google Self - Driving cars 
    --------------------------------------------
 
+<<<<<<< HEAD
    * **Company's name** : **Waymo LLC**
 
    * Waymo states as its mission == to make it safe and easy for people and things to move
     around == The company’s investment in self-driving car technology is an example of 
     Google’s willingness to take chances on technology that may not pay off for many years.
+=======
+   * Company's name : **Waymo LLC**
+     
+
+   ![waymo car](https://github.com/user-attachments/assets/ee14856c-e4de-4f14-a780-b2fa81a39b76)
+
+   
+   
+   * Waymo was first initiated by Google in 2009 as ==Google self driving car projet==
+     and in December 2016 , Waymo was established as an independent company under 
+     ==Alphabet INC== Google's parent company 
+>>>>>>> d02209a40ae44dafc6e6807a9a9244b20f4eecb3
 
    * **The founders of Waymo** :
 
